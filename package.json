@@ -1,0 +1,21 @@
+{
+  "name": "expo-diary-encrypted-cloud",
+  "version": "0.1.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "expo": "^50.0.0",
+    "expo-file-system": "^15.4.2",
+    "expo-secure-store": "^12.3.0",
+    "expo-crypto": "^12.4.0",
+    "react": "^18.2.0",
+    "react-native": "^0.73.0",
+    "react-native-simple-crypto": "^1.4.0",
+    "@react-native-google-signin/google-signin": "^9.0.0",
+    "dropbox": "^11.0.0"
+  }
+}
